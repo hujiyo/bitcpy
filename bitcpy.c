@@ -1,8 +1,8 @@
 #include "bitcpy.h"
 /*
-#版权所有 (c) HUJI 2024
-#许可证协议:MIT
-Email: Mhuixs.db@outlook.com
+#CopyRight (c) HuJi 2025.1
+#Under MIT License
+#Email:Mhuixs@outlook.com
 */
 /**
  * @param destination 目标缓冲区
