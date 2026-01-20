@@ -7,9 +7,9 @@
       "request": "launch",
       "args": [],
       "stopAtEntry": false,
-      "externalConsole": false,
-      "cwd": "/home/hujiyo/桌面/bitcpy",
-      "program": "/home/hujiyo/桌面/bitcpy/build/Debug/outDebug",
+      "externalConsole": true,
+      "cwd": "d:/桌面/bitcpy",
+      "program": "d:/桌面/bitcpy/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
